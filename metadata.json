@@ -1,0 +1,6 @@
+{
+  "name": "Privacy Guard",
+  "description": "Real-time microphone & sensitive resource privacy monitor. Detects background audio listening and unexpected app access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

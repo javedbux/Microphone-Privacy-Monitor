@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Privacy Guard</string>
+    <string name="privacy_timeline">Privacy Timeline</string>
+    <string name="app_permissions">App Permissions</string>
+    <string name="privacy_dashboard">Dashboard</string>
+    <string name="privacy_report">Privacy Report</string>
+    <string name="mic_tester">Sensor Lab</string>
+</resources>
